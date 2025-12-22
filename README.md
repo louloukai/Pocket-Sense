@@ -1,4 +1,4 @@
-# PROJECT TITLE: The Interactive Dashboard (Money and Budget Tracker)
+# PROJECT TITLE: Pocket Sense (Money and Budget Tracker)
 ## Problem Statement:
  Our project recognizes the following situations:
 Problems with handling money,
