@@ -1,4 +1,4 @@
-# PROJECT TITLE: Pocket Sense (Money and Budget Tracker)
+# PROJECT TITLE: Pocket Sense: A Budget Tracker App
 ## Problem Statement:
  Our project recognizes the following situations:
 Problems with handling money,
